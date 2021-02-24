@@ -15,7 +15,7 @@
           "thumbnail": "http://amaryllis.cc/bb/weapons/Hunter_Axe.jpg"
         },
         {
-          "id": 2,
+          "id": 1,
           "name": "Saw Cleaver",
           "description": "One of the trick weapons of the workshop, commonly used in the hunting business. This saw, effctive at drawing the blood of beasts, transforms into a long cleaver that makes use of centrifugal force. The saw, with its set of blood-letting teeth, has become a symbol of the hunt, and only grows in effectiveness the more grotesquely transformed the beast.",
           "base-damage": 90,
@@ -27,7 +27,7 @@
           "thumbnail": "http://amaryllis.cc/bb/weapons/Saw_Cleaver.jpg"
         },
         {
-          "id": 3,
+          "id": 2,
           "name": "Saw Spear",
           "description": "One of the trick weapons of the workshop, commonly used by those who dedicate themselves to the hunt. This saw, effective at drawing the blood of beasts, transforms into a medium-range spear. The saw, with its set of blood-letting teeth, has become a symbol of the hunt, and only grows in effectiveness the more grotesquely transformed the beast.",
           "base-damage": 85,
@@ -39,7 +39,7 @@
           "thumbnail": "http://amaryllis.cc/bb/weapons/Saw_Spear.jpg"
         },
         {
-          "id": 4,
+          "id": 3,
           "name": "Threaded Cane",
           "description": "One of the trick weapons of the workshop, commonly used by hunters on their duties. Sufficiently deadly as a rigid bladed cane, but also serves as a whip when its blade is split into many. Concealing the weapon inside the cane and flogging the beasts with the whip is partly an act of ceremony, an attempt to demonstrate to oneself that the bloodlust of the hunt will never encroach upon the soul.",
           "base-damage": 85,
@@ -51,7 +51,7 @@
           "thumbnail": "http://amaryllis.cc/bb/weapons/Threaded_Cane.jpg"
         },
         {
-          "id": 5,
+          "id": 4,
           "name": "Kirkhammer",
           "description": "A trick weapon typically used by Healing Church hunters. On the one side, an easily handled silver sword. On the other, a giant obtuse stone weapon, characterized by a blunt strike and extreme force of impact. The Church takes a heavy-handed, merciless stance toward the plague of beasts, an irony not lost upon the wielders of this most symbolic weapon.",
           "base-damage": 105,
