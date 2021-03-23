@@ -1,11 +1,11 @@
 {
   "weapons": [
     {
-      "id": 0,
+      "id": 1,
       "name": "Hunter Axe",
       "description": "One of the trick weapons of the workshop, commonly used on the hunt. Retains the qualities of an axe, but offers a wider palette of attacks by transforming. Boasts a heavy blunt attack, leading to high rally potential. No matter their pasts, beasts are no more than beasts. Some choose this axe to play the part of executioner.",
-      "base-damage": 98,
-      "damage-type": "Phys. / Blunt",
+      "base_damage": 98,
+      "damage_type": "Phys. / Blunt",
       "durability": 250,
       "scaling": [
         { "strength": "D", "skill": "E", "bloodtinge": "-", "arcane": "E" }
@@ -13,11 +13,11 @@
       "thumbnail": "http://amaryllis.cc/bb/weapons/Hunter_Axe.jpg"
     },
     {
-      "id": 1,
+      "id": 2,
       "name": "Saw Cleaver",
       "description": "One of the trick weapons of the workshop, commonly used in the hunting business. This saw, effctive at drawing the blood of beasts, transforms into a long cleaver that makes use of centrifugal force. The saw, with its set of blood-letting teeth, has become a symbol of the hunt, and only grows in effectiveness the more grotesquely transformed the beast.",
-      "base-damage": 90,
-      "damage-type": "Phys.",
+      "base_damage": 90,
+      "damage_type": "Phys.",
       "durability": 200,
       "scaling": [
         { "strength": "D", "skill": "E", "bloodtinge": "-", "arcane": "D" }
@@ -25,11 +25,11 @@
       "thumbnail": "http://amaryllis.cc/bb/weapons/Saw_Cleaver.jpg"
     },
     {
-      "id": 2,
+      "id": 3,
       "name": "Saw Spear",
       "description": "One of the trick weapons of the workshop, commonly used by those who dedicate themselves to the hunt. This saw, effective at drawing the blood of beasts, transforms into a medium-range spear. The saw, with its set of blood-letting teeth, has become a symbol of the hunt, and only grows in effectiveness the more grotesquely transformed the beast.",
-      "base-damage": 85,
-      "damage-type": "Phys. / Thrust",
+      "base_damage": 85,
+      "damage_type": "Phys. / Thrust",
       "durability": 200,
       "scaling": [
         { "strength": "D", "skill": "D", "bloodtinge": "-", "arcane": "D" }
@@ -37,11 +37,11 @@
       "thumbnail": "http://amaryllis.cc/bb/weapons/Saw_Spear.jpg"
     },
     {
-      "id": 3,
+      "id": 4,
       "name": "Threaded Cane",
       "description": "One of the trick weapons of the workshop, commonly used by hunters on their duties. Sufficiently deadly as a rigid bladed cane, but also serves as a whip when its blade is split into many. Concealing the weapon inside the cane and flogging the beasts with the whip is partly an act of ceremony, an attempt to demonstrate to oneself that the bloodlust of the hunt will never encroach upon the soul.",
-      "base-damage": 85,
-      "damage-type": "Phys. / Thrust",
+      "base_damage": 85,
+      "damage_type": "Phys. / Thrust",
       "durability": 200,
       "scaling": [
         { "strength": "E", "skill": "C", "bloodtinge": "-", "arcane": "D" }
@@ -49,16 +49,70 @@
       "thumbnail": "http://amaryllis.cc/bb/weapons/Threaded_Cane.jpg"
     },
     {
-      "id": 4,
+      "id": 5,
       "name": "Kirkhammer",
       "description": "A trick weapon typically used by Healing Church hunters. On the one side, an easily handled silver sword. On the other, a giant obtuse stone weapon, characterized by a blunt strike and extreme force of impact. The Church takes a heavy-handed, merciless stance toward the plague of beasts, an irony not lost upon the wielders of this most symbolic weapon.",
-      "base-damage": 105,
-      "damage-type": "Phys. / Thrust",
+      "base_damage": 105,
+      "damage_type": "Phys. / Thrust / Blunt",
       "durability": 200,
       "scaling": [
         { "strength": "E", "skill": "C", "bloodtinge": "-", "arcane": "D" }
       ],
       "thumbnail": "http://amaryllis.cc/bb/weapons/Kirkhammer.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Rifle Spear",
+      "description": "A trick weapon crafted by the workshop heretics, the Powder Kegs. A prototype weapon serving as a simple firearm and spear, possibly created in imitation of a lost Cainhurst weapon. Lacks any notable functions, saving that it is the only trick weapon with an attached gun.",
+      "base_damage": 85,
+      "damage_type": "Phys. / Thrust / Blood",
+      "durability": 180,
+      "scaling": [
+        { "strength": "E", "skill": "D", "bloodtinge": "D", "arcane": "D" }
+      ],
+      "thumbnail": "http://amaryllis.cc/bb/weapons/Rifle_Spear.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Stake Driver",
+      "description": "A trick weapon fashioned by the workshop heretics, the Powder Kegs. Favored by the retired hunter Djura. The stake driver, with its queerly complex design, violently drives thick stakes into the flesh of foes. The stake driver allows for high-damage critical attacks, but is difficult to use and leaves its wielder wide open, but none of this should bother a mere Powder Keg.",
+      "base_damage": 85,
+      "damage_type": "Phys. / Thrust / Blunt",
+      "durability": 200,
+      "scaling": [
+        { "strength": "D", "skill": "D", "bloodtinge": "-", "arcane": "D" }
+      ],
+      "thumbnail": "http://amaryllis.cc/bb/weapons/Stake_Driver.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Ludwig's Holy Blade",
+      "description": "A trick weapon typically used by Healing Church hunters. It is said that the silver sword was employed by Ludwig, the first hunter of the church. When transformed, it combines with its sheath to form a greatsword. The Healing church workshop began with Ludwig, and departed from old Gehrman's technique to provide hunters with the means to fight more terrifying beasts, and perhaps things still worse.",
+      "base_damage": 100,
+      "damage_type": "Phys. / Thrust / Blunt",
+      "durability": 250,
+      "scaling": [
+        { "strength": "D", "skill": "D", "bloodtinge": "-", "arcane": "D" }
+      ],
+      "thumbnail": "http://amaryllis.cc/bb/weapons/Ludwig's_Holy_Blade.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Blade of Mercy",
+      "description": "A special trick weapon passed down among hunters of hunters. One of the oldest weapons of the workshop. Splits into two when activated. The weapon's warped blades are forged with siderite, a rare mineral of the heavens. Most effective in swift attacks, such as after a quick-stepping.",
+      "base_damage": 60,
+      "damage_type": "Phys. / Arc. / Thrust",
+      "durability": 200,
+      "scaling": [
+        { "strength": "-", "skill": "C", "bloodtinge": "-", "arcane": "D" }
+      ],
+      "thumbnail": "http://amaryllis.cc/bb/weapons/Blade_of_Mercy.jpg"
+    }
+  ],
+  "bosses": [
+    {
+      "id": 1,
+      "name": "Cleric Beast"
     }
   ]
 }
