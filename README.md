@@ -2,7 +2,6 @@
 
 Simple Bloodborne API
 
-Resources:
-https://bloodborne-api.herokuapp.com/weapons
+Weapons: https://bloodborne-api.herokuapp.com/weapons
 
-https://bloodborne-api.herokuapp.com/bosses
+Bosses https://bloodborne-api.herokuapp.com/bosses
